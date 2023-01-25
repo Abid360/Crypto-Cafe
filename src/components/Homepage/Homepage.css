@@ -1,0 +1,9 @@
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+}
+
+button {
+  background: linear-gradient(90deg, #1cb5e0 0%, #000851 100%);
+}
